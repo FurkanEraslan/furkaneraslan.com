@@ -1,0 +1,33 @@
+body{
+    background-color: #3158ff;
+
+
+
+
+}
+#wrapper{
+
+    margin:250px auto;
+    width:200px;
+
+
+}
+#ortala{
+margin:200px;
+}
+
+
+
+.giris{
+    background-color:white;
+    padding:5px;
+    display:block;
+    margin-bottom:20px;
+    -moz-border-radius:5px;
+    -webkit-border-radius:10px;
+}
+#girisbutonu{
+    background-color: #3158ff;
+    color:white;
+    padding:10px;
+}
